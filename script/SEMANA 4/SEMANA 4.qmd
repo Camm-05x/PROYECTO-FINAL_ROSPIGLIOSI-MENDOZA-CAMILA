@@ -1,0 +1,28 @@
+---
+title: "SEMANA 4"
+author: "Grupo 4"
+format: html
+editor: visual
+---
+
+## Quarto
+
+Para descargar un archivo en formato CSV del repositorio GitHub:
+
+1.  Ingresamos al repositotio GITHUB
+
+    ![](images/clipboard-3096503470.png)
+
+2.  Ubicamos el documento que queremos descargar
+
+    ![](images/clipboard-1793671640.png)
+
+3.  Seleccionamos el archivo y le damos en descargar
+
+    ![](images/clipboard-3636778899.png)
+
+4.  Ya tenemos descargado nuestro archivo
+
+    ![](images/clipboard-3246860721.png)
+
+5.  Y eso sería todo.
