@@ -1,0 +1,38 @@
+---
+title: "SEMANA 8"
+author: "Grupo 4"
+format: html
+editor: visual
+---
+
+## Quarto
+
+En este caso haremos una prueba instalando el paquete "ggplot2"
+
+Para instalar un paquete en Rstudio debemos colocar el siguiente código:
+
+```{r}
+install.packages("ggplot2")
+```
+
+y para ejecutarlo:
+
+```{r}
+library(ggplot2)
+```
+
+y ya tendríamos instalado nuestro paquete.
+
+Ahora para realizar nuestro gráfico (Histograma)
+
+```{r}
+data<- read_csv("C:/Users/User/Downloads/covid_19_diabetes.csv")
+```
+
+```{r}
+#para realizar el histograma y con color
+hist(data$Edad, col = "red")
+
+```
+
+ESO ES TODO.
